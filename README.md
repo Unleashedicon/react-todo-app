@@ -92,7 +92,7 @@ This to do react app is built using the following technologies and libraries:
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo 
-<br><br><a name="live-demo">[live link](https://unleashedicon.github.io/login)</a>
+<br><br><a name="live-demo">[live link](https://unleashedicon.github.io/react-todo-app/)</a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
